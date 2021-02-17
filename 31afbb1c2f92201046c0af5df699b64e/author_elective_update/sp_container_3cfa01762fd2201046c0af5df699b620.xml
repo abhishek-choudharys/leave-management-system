@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color>#c0dcfa</background_color>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Leave Homepage - Container 4</name>
+        <order>4</order>
+        <sp_page display_value="l_homepage">1dca49762fd2201046c0af5df699b6d4</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 18:12:47</sys_created_on>
+        <sys_id>3cfa01762fd2201046c0af5df699b620</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Leave Homepage - Container 4</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>sp_container_3cfa01762fd2201046c0af5df699b620</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 19:26:51</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>sp_container_3cfa01762fd2201046c0af5df699b620</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color>#c0dcfa</background_color><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Leave Homepage - Container 4</name><order>4</order><sp_page display_value="l_homepage">1dca49762fd2201046c0af5df699b6d4</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-16 18:12:47</sys_created_on><sys_id>3cfa01762fd2201046c0af5df699b620</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Leave Homepage - Container 4</sys_name><sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package><sys_policy/><sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope><sys_update_name>sp_container_3cfa01762fd2201046c0af5df699b620</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-16 19:26:51</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-435678966</payload_hash>
+        <record_name>Leave Homepage - Container 4</record_name>
+        <reverted_from/>
+        <source>f1afbb1c2f92201046c0af5df699b650</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 19:26:51</sys_created_on>
+        <sys_id>71eb95362f16201046c0af5df699b652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ac4f44400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 19:26:51</sys_updated_on>
+        <type>Container</type>
+        <update_guid>f9eb95366c162010aa6149cc58406451</update_guid>
+        <update_guid_history>f9eb95366c162010aa6149cc58406451:-435678966,b6c91172af1620100219c06886f5b86b:-677653079,cab995b2a5162010100b16ba583cdbfb:-939231198,7cfacdf676d22010c5ad6e7cac76114e:-2061875028</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Leave Homepage - Container 4">592c59362f16201046c0af5df699b6de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 19:27:55</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>041d2f4912384284832c0b1038d47e10</sys_id>
+        <sys_metadata>3cfa01762fd2201046c0af5df699b620</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Leave Homepage - Container 4</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>sp_container_3cfa01762fd2201046c0af5df699b620</sys_update_name>
+        <sys_update_version display_value="sp_container_3cfa01762fd2201046c0af5df699b620">71eb95362f16201046c0af5df699b652</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 19:27:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

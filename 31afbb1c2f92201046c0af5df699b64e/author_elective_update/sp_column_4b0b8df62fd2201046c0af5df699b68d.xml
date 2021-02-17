@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <size>6</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">4f0b8df62fd2201046c0af5df699b689</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 18:13:13</sys_created_on>
+        <sys_id>4b0b8df62fd2201046c0af5df699b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>sp_column_4b0b8df62fd2201046c0af5df699b68d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 18:13:13</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>sp_column_4b0b8df62fd2201046c0af5df699b68d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><size>6</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">4f0b8df62fd2201046c0af5df699b689</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-16 18:13:13</sys_created_on><sys_id>4b0b8df62fd2201046c0af5df699b68d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package><sys_policy/><sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope><sys_update_name>sp_column_4b0b8df62fd2201046c0af5df699b68d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-16 18:13:13</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>1295695361</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>f1afbb1c2f92201046c0af5df699b650</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 18:13:13</sys_created_on>
+        <sys_id>030b8df62fd2201046c0af5df699b68f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ac0bd8160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 18:13:13</sys_updated_on>
+        <type>Column</type>
+        <update_guid>4b0b8df62fd22010aa01af8dc13dc18e</update_guid>
+        <update_guid_history>4b0b8df62fd22010aa01af8dc13dc18e:1295695361</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">112c59362f16201046c0af5df699b6d9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 19:27:55</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>33a3e011b1e5443d905e27526c07b231</sys_id>
+        <sys_metadata>4b0b8df62fd2201046c0af5df699b68d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>sp_column_4b0b8df62fd2201046c0af5df699b68d</sys_update_name>
+        <sys_update_version display_value="sp_column_4b0b8df62fd2201046c0af5df699b68d">030b8df62fd2201046c0af5df699b68f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 19:27:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

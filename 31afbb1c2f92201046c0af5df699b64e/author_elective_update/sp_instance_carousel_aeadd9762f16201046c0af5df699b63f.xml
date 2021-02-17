@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_carousel">
+    <sp_instance_carousel action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <interval>5000</interval>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">2e4dd5362f16201046c0af5df699b6cd</sp_column>
+        <sp_widget display_value="Carousel">cf1a5153cb21020000f8d856634c9c3c</sp_widget>
+        <sys_class_name>sp_instance_carousel</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 19:34:33</sys_created_on>
+        <sys_id>aeadd9762f16201046c0af5df699b63f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>sp_instance_carousel_aeadd9762f16201046c0af5df699b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 19:34:33</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_carousel>
+    <sys_translated_text action="DELETE" query="documentkey=aeadd9762f16201046c0af5df699b63f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>sp_instance_carousel_aeadd9762f16201046c0af5df699b63f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_carousel"><sp_instance_carousel action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><interval>5000</interval><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">2e4dd5362f16201046c0af5df699b6cd</sp_column><sp_widget display_value="Carousel">cf1a5153cb21020000f8d856634c9c3c</sp_widget><sys_class_name>sp_instance_carousel</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-16 19:34:33</sys_created_on><sys_id>aeadd9762f16201046c0af5df699b63f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package><sys_policy/><sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope><sys_update_name>sp_instance_carousel_aeadd9762f16201046c0af5df699b63f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-16 19:34:33</sys_updated_on><title/><url/><widget_parameters/></sp_instance_carousel><sys_translated_text action="delete_multiple" query="documentkey=aeadd9762f16201046c0af5df699b63f"/></record_update>]]></payload>
+        <payload_hash>-1174359524</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f1afbb1c2f92201046c0af5df699b650</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 19:34:33</sys_created_on>
+        <sys_id>a6add9762f16201046c0af5df699b642</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ac564f0a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 19:34:33</sys_updated_on>
+        <type>Instance of Carousel</type>
+        <update_guid>eeadd97609162010eb8a12d542425f41</update_guid>
+        <update_guid_history>eeadd97609162010eb8a12d542425f41:-1174359524</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">b1bd55762f16201046c0af5df699b6da</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 19:34:46</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_carousel">sp_instance_carousel</sys_db_object>
+        <sys_id>4171fe4e04c145189d85a03aef69ca40</sys_id>
+        <sys_metadata>aeadd9762f16201046c0af5df699b63f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>sp_instance_carousel_aeadd9762f16201046c0af5df699b63f</sys_update_name>
+        <sys_update_version display_value="sp_instance_carousel_aeadd9762f16201046c0af5df699b63f">a6add9762f16201046c0af5df699b642</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 19:34:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Populate leave details after fetching from calculator using script include.</description>
+        <field>accumulated</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Populate leave details onLoad</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	var ga = new GlideAjax('lmsAjax');
+	
+	ga.addParam('sysparm_name', 'getLeaveBucket');
+	ga.addParam('sysparm_user', g_user.userID);
+	ga.addParam('sysparm_leavetype', g_form.getValue('leave_type') );
+	ga.getXML(getBucket);
+	
+	function getBucket(response)
+	{
+		var answer = response.responseXML.documentElement.getAttribute("answer");
+		var result = JSON.parse(answer);
+		
+		g_form.setValue('accumulated', result.accumulated);
+		g_form.setValue('balance', result.balance);
+		g_form.setValue('taken', result.taken);
+		
+	}
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-15 13:50:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8b44c3122f1a201046c0af5df699b6ff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Populate leave details onLoad</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>sys_script_client_8b44c3122f1a201046c0af5df699b6ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-15 13:53:28</sys_updated_on>
+        <table>x_573698_lms_leave_request</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

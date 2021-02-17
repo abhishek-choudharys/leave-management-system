@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_573698_lms_leave_request" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>f6f3c3122f1a201046c0af5df699b6e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>accumulated</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>4ff3c3122f1a201046c0af5df699b6e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>cff3c3122f1a201046c0af5df699b6e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>balance</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>43f3c3122f1a201046c0af5df699b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comment</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>c3f3c3122f1a201046c0af5df699b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>duration</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>47f3c3122f1a201046c0af5df699b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>c7f3c3122f1a201046c0af5df699b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>half_day</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>4bf3c3122f1a201046c0af5df699b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>leave_type</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>cbf3c3122f1a201046c0af5df699b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by</element>
+            <list_id display_value="x_573698_lms_leave_request" element="NULL" name="x_573698_lms_leave_request" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3af3c3122f1a201046c0af5df699b6e8</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_id>4ff3c3122f1a201046c0af5df699b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_573698_lms_leave_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-15 13:44:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3af3c3122f1a201046c0af5df699b6e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_573698_lms_leave_request</sys_name>
+            <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+            <sys_update_name>sys_ui_list_x_573698_lms_leave_request_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-15 13:44:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
