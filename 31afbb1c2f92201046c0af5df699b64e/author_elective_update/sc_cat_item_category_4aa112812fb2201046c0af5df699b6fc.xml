@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Leave Request Input">f4a19e412fb2201046c0af5df699b638</sc_cat_item>
+        <sc_category display_value="Business Application Lifecycle Management">31bbeaf8e4001410f877ce457cda6be2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 09:23:44</sys_created_on>
+        <sys_id>4aa112812fb2201046c0af5df699b6fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Application Lifecycle Management.Leave Request Input</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>sc_cat_item_category_4aa112812fb2201046c0af5df699b6fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 09:23:44</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>sc_cat_item_category_4aa112812fb2201046c0af5df699b6fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Leave Request Input">f4a19e412fb2201046c0af5df699b638</sc_cat_item><sc_category display_value="Business Application Lifecycle Management">31bbeaf8e4001410f877ce457cda6be2</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-08 09:23:44</sys_created_on><sys_id>4aa112812fb2201046c0af5df699b6fc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Business Application Lifecycle Management.Leave Request Input</sys_name><sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package><sys_policy/><sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope><sys_update_name>sc_cat_item_category_4aa112812fb2201046c0af5df699b6fc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-08 09:23:44</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1699549117</payload_hash>
+        <record_name>Business Application Lifecycle Management.Leave Request Input</record_name>
+        <reverted_from/>
+        <source>39c99d8f2f9e201046c0af5df699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 09:23:44</sys_created_on>
+        <sys_id>4ea152812fb2201046c0af5df699b600</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178112648d20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 09:23:44</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>c2a15281a3b220102b8466b3098c3300</update_guid>
+        <update_guid_history>c2a15281a3b220102b8466b3098c3300:1699549117</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Business Application Lifecycle Management.Leave Request Input">26c2324d2ff2201046c0af5df699b671</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-08 11:48:29</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>22e991bc87ba4de09b2b2ecde86cfef9</sys_id>
+        <sys_metadata>4aa112812fb2201046c0af5df699b6fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Application Lifecycle Management.Leave Request Input</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_4aa112812fb2201046c0af5df699b6fc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_4aa112812fb2201046c0af5df699b6fc">4ea152812fb2201046c0af5df699b600</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 11:48:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

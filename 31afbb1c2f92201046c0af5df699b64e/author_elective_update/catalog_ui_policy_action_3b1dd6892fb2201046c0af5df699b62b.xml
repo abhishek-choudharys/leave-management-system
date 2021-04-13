@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Leave Request Input">529b5de02f6e201046c0af5df699b64e</catalog_item>
+        <catalog_variable>IO:8e895b172f22201046c0af5df699b6ff</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 10:14:13</sys_created_on>
+        <sys_id>3b1dd6892fb2201046c0af5df699b62b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>end_date</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_3b1dd6892fb2201046c0af5df699b62b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 11:15:21</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide end date for half day">4fbc52892fb2201046c0af5df699b6eb</ui_policy>
+        <variable>end_date</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>catalog_ui_policy_action_3b1dd6892fb2201046c0af5df699b62b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Leave Request Input">529b5de02f6e201046c0af5df699b64e</catalog_item><catalog_variable>IO:8e895b172f22201046c0af5df699b6ff</catalog_variable><cleared>false</cleared><disabled>false</disabled><field/><mandatory>false</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-08 10:14:13</sys_created_on><sys_id>3b1dd6892fb2201046c0af5df699b62b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>end_date</sys_name><sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package><sys_policy/><sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope><sys_update_name>catalog_ui_policy_action_3b1dd6892fb2201046c0af5df699b62b</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-03-08 11:15:21</sys_updated_on><table/><ui_policy display_value="Hide end date for half day">4fbc52892fb2201046c0af5df699b6eb</ui_policy><variable>end_date</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1270601465</payload_hash>
+        <record_name>end_date</record_name>
+        <reverted_from/>
+        <source>39c99d8f2f9e201046c0af5df699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-08 11:15:21</sys_created_on>
+        <sys_id>0d3bae052ff2201046c0af5df699b69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178118c77690000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 11:15:21</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>c13bae05abf220100580f49fa1eb109a</update_guid>
+        <update_guid_history>c13bae05abf220100580f49fa1eb109a:1270601465,ad3d568945b22010b3f8bc9e820c09c3:540423158</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="end_date">dec2fe0d2ff2201046c0af5df699b6fc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-08 11:48:29</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>4102806fbe4443669163232e714002e4</sys_id>
+        <sys_metadata>3b1dd6892fb2201046c0af5df699b62b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>end_date</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_3b1dd6892fb2201046c0af5df699b62b</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_3b1dd6892fb2201046c0af5df699b62b">0d3bae052ff2201046c0af5df699b69a</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 11:48:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

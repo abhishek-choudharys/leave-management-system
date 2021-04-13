@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Leave Calculator Italy" max_length="40" name="x_573698_lms_leave_cal_italy" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=country" label="country" max_length="40" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=end_month" label="end_month" max_length="40" name="u_end_month" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=leaves" label="leaves" max_length="40" name="u_leaves" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=leave_assignment" label="leave_assignment" max_length="40" name="u_leave_assignment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=leave_type" label="leave_type" max_length="40" name="u_leave_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=starting_month" label="starting_month" max_length="40" name="u_starting_month" type="string"/>
+    </element>
+</database>

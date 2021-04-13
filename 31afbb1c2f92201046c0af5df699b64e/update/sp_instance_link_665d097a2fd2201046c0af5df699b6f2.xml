@@ -13,7 +13,7 @@
         <roles/>
         <sc_cat_item/>
         <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
-        <short_description>Yes, I've swallowed my pride and I need help.</short_description>
+        <short_description>Click if you need help.</short_description>
         <size>md</size>
         <sp_column display_value="3">150b8df62fd2201046c0af5df699b686</sp_column>
         <sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-02-16 18:23:17</sys_created_on>
         <sys_id>665d097a2fd2201046c0af5df699b6f2</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Get Help</sys_name>
         <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
         <sys_update_name>sp_instance_link_665d097a2fd2201046c0af5df699b6f2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-16 18:32:41</sys_updated_on>
+        <sys_updated_on>2021-03-24 04:59:07</sys_updated_on>
         <title>Get Help</title>
         <type>sc_category</type>
         <url/>

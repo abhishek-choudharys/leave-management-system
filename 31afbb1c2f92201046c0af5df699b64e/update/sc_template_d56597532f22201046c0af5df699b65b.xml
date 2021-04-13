@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_template">
+    <sc_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_for>fb1166d64fff0200086eeed18110c7ab</available_for>
+        <cat_item display_value="Record Producer Builder">3558cf50c7321010159ca1e603c2605b</cat_item>
+        <name>Leave Template</name>
+        <short_description>For leave management system - leave request</short_description>
+        <sys_class_name>sc_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 03:51:10</sys_created_on>
+        <sys_id>d56597532f22201046c0af5df699b65b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Leave Template</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>sc_template_d56597532f22201046c0af5df699b65b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-03 03:51:10</sys_updated_on>
+    </sc_template>
+</record_update>

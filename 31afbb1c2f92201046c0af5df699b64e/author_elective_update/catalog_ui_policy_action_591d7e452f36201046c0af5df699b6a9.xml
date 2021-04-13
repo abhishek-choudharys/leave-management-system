@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Leave Request Input">529b5de02f6e201046c0af5df699b64e</catalog_item>
+        <catalog_variable>IO:794b13972f22201046c0af5df699b6a2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 12:33:28</sys_created_on>
+        <sys_id>591d7e452f36201046c0af5df699b6a9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>balance</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_591d7e452f36201046c0af5df699b6a9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 12:35:03</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make fields mandatory">1d1d7e452f36201046c0af5df699b690</ui_policy>
+        <variable>balance</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>catalog_ui_policy_action_591d7e452f36201046c0af5df699b6a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Leave Request Input">529b5de02f6e201046c0af5df699b64e</catalog_item><catalog_variable>IO:794b13972f22201046c0af5df699b6a2</catalog_variable><cleared>false</cleared><disabled>true</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-08 12:33:28</sys_created_on><sys_id>591d7e452f36201046c0af5df699b6a9</sys_id><sys_mod_count>2</sys_mod_count><sys_name>balance</sys_name><sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package><sys_policy/><sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope><sys_update_name>catalog_ui_policy_action_591d7e452f36201046c0af5df699b6a9</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2021-03-08 12:35:03</sys_updated_on><table/><ui_policy display_value="Make fields mandatory">1d1d7e452f36201046c0af5df699b690</ui_policy><variable>balance</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>93722886</payload_hash>
+        <record_name>balance</record_name>
+        <reverted_from/>
+        <source>39c99d8f2f9e201046c0af5df699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-08 12:35:03</sys_created_on>
+        <sys_id>a87df6852f36201046c0af5df699b6ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17811d56f900000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 12:35:03</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>607df6850e36201005213bc89dd115ec</update_guid>
+        <update_guid_history>607df6850e36201005213bc89dd115ec:93722886,ad1d7e45f1362010329c8b4f9baf70b0:317880135,111d7e45b93620107a12fbdd2b57abac:93722886</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="balance">7edd57012fb6201046c0af5df699b68d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-08 14:56:39</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>9104370a80944e3fa25b66b566982f39</sys_id>
+        <sys_metadata>591d7e452f36201046c0af5df699b6a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>balance</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_591d7e452f36201046c0af5df699b6a9</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_591d7e452f36201046c0af5df699b6a9">a87df6852f36201046c0af5df699b6ec</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 14:56:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

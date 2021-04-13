@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref display_value="Earned leave">e6b75b132f22201046c0af5df699b6a8</published_ref>
+        <question display_value="Select leave type">81bd5fcd2f76201046c0af5df699b693</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 14:55:59</sys_created_on>
+        <sys_id>01bd5fcd2f76201046c0af5df699b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Earned leave</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>question_choice_01bd5fcd2f76201046c0af5df699b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 14:55:59</sys_updated_on>
+        <text>Earned leave</text>
+        <value>el</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=01bd5fcd2f76201046c0af5df699b6cc"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>question_choice_01bd5fcd2f76201046c0af5df699b6cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>200</order><published_ref display_value="Earned leave">e6b75b132f22201046c0af5df699b6a8</published_ref><question display_value="Select leave type">81bd5fcd2f76201046c0af5df699b693</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-08 14:55:59</sys_created_on><sys_id>01bd5fcd2f76201046c0af5df699b6cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Earned leave</sys_name><sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package><sys_policy/><sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope><sys_update_name>question_choice_01bd5fcd2f76201046c0af5df699b6cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-08 14:55:59</sys_updated_on><text>Earned leave</text><value>el</value></question_choice><fx_price action="delete_multiple" query="id=01bd5fcd2f76201046c0af5df699b6cc"/></record_update>]]></payload>
+        <payload_hash>-454768674</payload_hash>
+        <record_name>Earned leave</record_name>
+        <reverted_from/>
+        <source>39c99d8f2f9e201046c0af5df699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 14:55:59</sys_created_on>
+        <sys_id>45bd5fcd2f76201046c0af5df699b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178125676d30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 14:55:59</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>c9bd5fcdfe7620109d9dcb6875100acd</update_guid>
+        <update_guid_history>c9bd5fcdfe7620109d9dcb6875100acd:-454768674</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Earned leave">63dd97012fb6201046c0af5df699b6a9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-08 14:56:42</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>bc8ceb090c9e4459bb8c755c85921e49</sys_id>
+        <sys_metadata>01bd5fcd2f76201046c0af5df699b6cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Earned leave</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent display_value="">81bd5fcd2f76201046c0af5df699b693</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>question_choice_01bd5fcd2f76201046c0af5df699b6cc</sys_update_name>
+        <sys_update_version display_value="question_choice_01bd5fcd2f76201046c0af5df699b6cc">45bd5fcd2f76201046c0af5df699b6ce</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 14:56:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">aeeb95362f16201046c0af5df699b667</sp_column>
+        <sp_widget display_value="Cool Clock">3a36b30b6f3631005be8583e6b3ee490</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 18:52:22</sys_created_on>
+        <sys_id>240459be2fd2201046c0af5df699b684</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Yeah, looking at this will save a lot of tiime.</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>sp_instance_240459be2fd2201046c0af5df699b684</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 19:26:58</sys_updated_on>
+        <title>Yeah, looking at this will save a lot of tiime.</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"zone": {
+		"value": "",
+		"displayValue": ""
+	},
+	"c_color": {
+		"value": "blue",
+		"displayValue": "blue"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=240459be2fd2201046c0af5df699b684"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>sp_instance_240459be2fd2201046c0af5df699b684</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;aeeb95362f16201046c0af5df699b667&lt;/sp_column&gt;&lt;sp_widget display_value="Cool Clock"&gt;3a36b30b6f3631005be8583e6b3ee490&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-02-16 18:52:22&lt;/sys_created_on&gt;&lt;sys_id&gt;240459be2fd2201046c0af5df699b684&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;Yeah, looking at this will save a lot of tiime.&lt;/sys_name&gt;&lt;sys_package display_value="Leave Management System" source="x_573698_lms"&gt;31afbb1c2f92201046c0af5df699b64e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Leave Management System"&gt;31afbb1c2f92201046c0af5df699b64e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_240459be2fd2201046c0af5df699b684&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-02-16 19:26:58&lt;/sys_updated_on&gt;&lt;title&gt;Yeah, looking at this will save a lot of tiime.&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"zone": {
+		"value": "",
+		"displayValue": ""
+	},
+	"c_color": {
+		"value": "blue",
+		"displayValue": "blue"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=240459be2fd2201046c0af5df699b684"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-668896632</payload_hash>
+        <record_name>Yeah, looking at this will save a lot of tiime.</record_name>
+        <reverted_from/>
+        <source>f1afbb1c2f92201046c0af5df699b650</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 19:26:58</sys_created_on>
+        <sys_id>efeb1db22f16201046c0af5df699b6fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177ac4f5f210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 19:26:58</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>6beb1db25e1620103ae725307415d5fb</update_guid>
+        <update_guid_history>6beb1db25e1620103ae725307415d5fb:-668896632,522495be80d22010b9342413f1508e3c:-247632136,c91499bed7d2201054c217e1e1f35994:-1257194785,ec0459beccd220102b62079f2e638385:2082142471</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Yeah, looking at this will save a lot of tiime.">28d3631f2f22201046c0af5df699b619</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-03 04:53:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>1de999d7399942ae90f63f9673149ec9</sys_id>
+        <sys_metadata>240459be2fd2201046c0af5df699b684</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Yeah, looking at this will save a lot of tiime.</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>sp_instance_240459be2fd2201046c0af5df699b684</sys_update_name>
+        <sys_update_version display_value="sp_instance_240459be2fd2201046c0af5df699b684">efeb1db22f16201046c0af5df699b6fb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-03 04:53:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

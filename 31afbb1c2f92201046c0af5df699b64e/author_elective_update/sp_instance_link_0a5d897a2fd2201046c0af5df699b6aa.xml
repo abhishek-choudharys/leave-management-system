@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>eye</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category display_value="Policies">5a7b2552ff0131009b20ffffffffffb1</kb_category>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Yes. Smarter people have already asked and answered it.</short_description>
+        <size>md</size>
+        <sp_column display_value="2">aeeb95362f16201046c0af5df699b667</sp_column>
+        <sp_page display_value="kb_category">0e461a2147132100ba13a5554ee4900e</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 18:23:15</sys_created_on>
+        <sys_id>0a5d897a2fd2201046c0af5df699b6aa</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Knowledge Base</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>sp_instance_link_0a5d897a2fd2201046c0af5df699b6aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 12:37:19</sys_updated_on>
+        <title>Knowledge Base</title>
+        <type>kb_category</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=0a5d897a2fd2201046c0af5df699b6aa"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>sp_instance_link_0a5d897a2fd2201046c0af5df699b6aa</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;primary&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;eye&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category display_value="Policies"&gt;5a7b2552ff0131009b20ffffffffffb1&lt;/kb_category&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Yes. Smarter people have already asked and answered it.&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;aeeb95362f16201046c0af5df699b667&lt;/sp_column&gt;&lt;sp_page display_value="kb_category"&gt;0e461a2147132100ba13a5554ee4900e&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-02-16 18:23:15&lt;/sys_created_on&gt;&lt;sys_id&gt;0a5d897a2fd2201046c0af5df699b6aa&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Knowledge Base&lt;/sys_name&gt;&lt;sys_package display_value="Leave Management System" source="x_573698_lms"&gt;31afbb1c2f92201046c0af5df699b64e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Leave Management System"&gt;31afbb1c2f92201046c0af5df699b64e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_0a5d897a2fd2201046c0af5df699b6aa&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-03-08 12:37:19&lt;/sys_updated_on&gt;&lt;title&gt;Knowledge Base&lt;/title&gt;&lt;type&gt;kb_category&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0a5d897a2fd2201046c0af5df699b6aa"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>398503072</payload_hash>
+        <record_name>Knowledge Base</record_name>
+        <reverted_from/>
+        <source>39c99d8f2f9e201046c0af5df699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 12:37:19</sys_created_on>
+        <sys_id>b9fdb6c52f36201046c0af5df699b62d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17811d782a80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 12:37:19</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>f1fdb6c5513620106d478068a1e79a2d</update_guid>
+        <update_guid_history>f1fdb6c5513620106d478068a1e79a2d:398503072,c5fd76c5b03620107c6d96a7ea32fdc4:147848453,02fa99f29216201075b9f043a99c46c0:-781294426,8c5099fa97d220102777b1e5736b6127:-1162709910,2cbe89ba9dd220108760957b3352f9d6:2030225217,825d897a67d22010062b4a42399cbfac:2118029430</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Knowledge Base">b2fdb6c52f36201046c0af5df699b6e5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 12:37:23</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>787df3817dfb4660ba7467890b679640</sys_id>
+        <sys_metadata>0a5d897a2fd2201046c0af5df699b6aa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowledge Base</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>sp_instance_link_0a5d897a2fd2201046c0af5df699b6aa</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_0a5d897a2fd2201046c0af5df699b6aa">b9fdb6c52f36201046c0af5df699b62d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 12:37:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

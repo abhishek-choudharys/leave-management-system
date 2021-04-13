@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref display_value="Sick leave">e2b793d32f22201046c0af5df699b66e</published_ref>
+        <question display_value="Select leave type">81bd5fcd2f76201046c0af5df699b693</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 14:55:59</sys_created_on>
+        <sys_id>cdbd5fcd2f76201046c0af5df699b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sick leave</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>question_choice_cdbd5fcd2f76201046c0af5df699b6c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 14:55:59</sys_updated_on>
+        <text>Sick leave</text>
+        <value>sl</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=cdbd5fcd2f76201046c0af5df699b6c8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>question_choice_cdbd5fcd2f76201046c0af5df699b6c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>300</order><published_ref display_value="Sick leave">e2b793d32f22201046c0af5df699b66e</published_ref><question display_value="Select leave type">81bd5fcd2f76201046c0af5df699b693</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-08 14:55:59</sys_created_on><sys_id>cdbd5fcd2f76201046c0af5df699b6c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sick leave</sys_name><sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package><sys_policy/><sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope><sys_update_name>question_choice_cdbd5fcd2f76201046c0af5df699b6c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-08 14:55:59</sys_updated_on><text>Sick leave</text><value>sl</value></question_choice><fx_price action="delete_multiple" query="id=cdbd5fcd2f76201046c0af5df699b6c8"/></record_update>]]></payload>
+        <payload_hash>-1248188186</payload_hash>
+        <record_name>Sick leave</record_name>
+        <reverted_from/>
+        <source>39c99d8f2f9e201046c0af5df699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 14:55:59</sys_created_on>
+        <sys_id>05bd5fcd2f76201046c0af5df699b6cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178125676af0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 14:55:59</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>89bd5fcd4f7620106b94e622c9345dca</update_guid>
+        <update_guid_history>89bd5fcd4f7620106b94e622c9345dca:-1248188186</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sick leave">2fdd97012fb6201046c0af5df699b6f6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-08 14:56:43</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>56c749e1ca2844a298f9544d6ad9ee79</sys_id>
+        <sys_metadata>cdbd5fcd2f76201046c0af5df699b6c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sick leave</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent display_value="">81bd5fcd2f76201046c0af5df699b693</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>question_choice_cdbd5fcd2f76201046c0af5df699b6c8</sys_update_name>
+        <sys_update_version display_value="question_choice_cdbd5fcd2f76201046c0af5df699b6c8">05bd5fcd2f76201046c0af5df699b6cb</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 14:56:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref display_value="Canceled">2b5de3d32f62201046c0af5df699b607</published_ref>
+        <question display_value="Status">f1a112812fb2201046c0af5df699b688</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 09:23:43</sys_created_on>
+        <sys_id>31a112812fb2201046c0af5df699b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Canceled</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_update_name>question_choice_31a112812fb2201046c0af5df699b698</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 09:23:43</sys_updated_on>
+        <text>Canceled</text>
+        <value>canceled</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=31a112812fb2201046c0af5df699b698"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</application>
+        <file_path/>
+        <instance_id>e380e4a4db650054b847ac44d496191b</instance_id>
+        <instance_name>dev95578</instance_name>
+        <name>question_choice_31a112812fb2201046c0af5df699b698</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>300</order><published_ref display_value="Canceled">2b5de3d32f62201046c0af5df699b607</published_ref><question display_value="Status">f1a112812fb2201046c0af5df699b688</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-08 09:23:43</sys_created_on><sys_id>31a112812fb2201046c0af5df699b698</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Canceled</sys_name><sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package><sys_policy/><sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope><sys_update_name>question_choice_31a112812fb2201046c0af5df699b698</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-08 09:23:43</sys_updated_on><text>Canceled</text><value>canceled</value></question_choice><fx_price action="delete_multiple" query="id=31a112812fb2201046c0af5df699b698"/></record_update>]]></payload>
+        <payload_hash>-818914575</payload_hash>
+        <record_name>Canceled</record_name>
+        <reverted_from/>
+        <source>39c99d8f2f9e201046c0af5df699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-08 09:23:43</sys_created_on>
+        <sys_id>75a112812fb2201046c0af5df699b69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1781126449a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-08 09:23:43</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>f9a11281b1b220104a98deb323453299</update_guid>
+        <update_guid_history>f9a11281b1b220104a98deb323453299:-818914575</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Canceled">a53bee052ff2201046c0af5df699b659</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-03-08 11:15:23</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>d756f2e3373c4740b89bab480658eca1</sys_id>
+        <sys_metadata>31a112812fb2201046c0af5df699b698</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Canceled</sys_name>
+        <sys_package display_value="Leave Management System" source="x_573698_lms">31afbb1c2f92201046c0af5df699b64e</sys_package>
+        <sys_parent display_value="">f1a112812fb2201046c0af5df699b688</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">31afbb1c2f92201046c0af5df699b64e</sys_scope>
+        <sys_scope_delete display_value="">38794ef26d41418f8cdd806d91ea7009</sys_scope_delete>
+        <sys_update_name>question_choice_31a112812fb2201046c0af5df699b698</sys_update_name>
+        <sys_update_version display_value="question_choice_31a112812fb2201046c0af5df699b698">75a112812fb2201046c0af5df699b69a</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-03-08 11:15:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
